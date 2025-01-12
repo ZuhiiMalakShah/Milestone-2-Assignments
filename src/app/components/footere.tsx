@@ -4,8 +4,8 @@ export default function Footer () {
         <div className="footerfirst">
             <div className="footersecond">
                 <ul>
-                    <li> Made By Hassaan Khan </li>
-                    <li> <Link href={"https://github.com/HK-Adventures/Governor-House"}> Github </Link>  </li>
+                    <li> Made By Aliya Manzoor </li>
+                    <li> <Link href={"https://github.com/ZuhiiMalakShah/Milestone-2-Assignments"}> Github </Link>  </li>
                 </ul>
             </div>
         </div>
